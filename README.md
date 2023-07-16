@@ -1,16 +1,12 @@
-# text_to_speech
+# Text To Voice Translator App
 
-A new Flutter project.
+Text voice translator app in flutter
 
-## Getting Started
+## Key features
+🎤✍️ Translate one language to another language
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen Shoot
+<p align="center">
+  <img width="350" height="700" src="https://github.com/Sohag-84/Text-To-Speech/assets/99319134/30c85559-5f2c-466c-9012-69fea6772349">
+</p>
